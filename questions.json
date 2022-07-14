@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+            "question": "The capitol of Florida is Miami.",
+            "answer": false
+          },
+          {
+            "question": "The capital of California is Sacramento.",
+            "answer": true
+          },
+          {
+            "question": "Albert Einstein is Magician",
+            "answer": false
+          },
+          {
+            "question": "The inventor of the first computer is Alan Turing.",
+            "answer": true
+          },
+          {
+              "question": "Facebook bought WhatsApp for 19 billion dollars.",
+              "answer": true
+          },
+          {
+              "question": "Hg is the chemical symbol of Mercury.",
+              "answer": true
+          },
+          {
+              "question": "Madrid is the capitol of Portugal.",
+              "answer": false
+          },
+          {
+              "question": "The worlds most ancient forest is in Australia.",
+              "answer": true
+          },
+          {
+              "question": "The highest waterfall in the world, Angel Falls, is located in Venezuela.",
+              "answer": true
+          },
+          {
+              "question": "There are eight planets in the solar system.",
+              "answer": true
+          },
+          {
+              "question": "Mercury is the second hottest planet and is closest to the sun.",
+              "answer": true
+          },
+          {
+              "question": "Earth is the fourth planet from the sun.",
+              "answer": false
+          },
+          {
+              "question": "A group of lions is called a squad.",
+              "answer": false
+          },
+          {
+              "question": "Uranus is known as the icy planet.",
+              "answer": true
+          },
+          {
+              "question": "Zurich is the largest city in Norway",
+              "answer": false
+          },
+          {
+              "question": "Colombia produces the most coffee in the world.",
+              "answer": false
+          },
+          {
+              "question": "Chile is thin but long and spans more than half of the western coast of South America.",
+              "answer": true
+          },
+          {
+              "question": "Jupiter is the planet with the most gravity.",
+              "answer": true
+          },
+          {
+              "question": "There are sixty national parks in the United States.",
+              "answer": false
+          },
+          {
+              "question": "The scientific name for fingerprints is dermatoglyph.",
+              "answer": true
+          }
+    ]
+}

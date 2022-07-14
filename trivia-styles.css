@@ -1,0 +1,47 @@
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    text-align: center;
+    background-color: lightgray;
+    margin: 200px;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 35px;
+}
+
+#question-container button {
+    font-family: 'Paytone One', sans-serif; 
+    width: 150px;
+    height: 35px;
+    text-align: center;
+}
+
+#true-button {
+    background-color: #a2c95f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    border: 15px;
+    margin-right: 25px;
+}
+
+#false-button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+#replay-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
