@@ -4,6 +4,12 @@
     box-sizing: inherit;
 }
 
+@media screen and (max-width: 600px) {
+    body {
+      width: 100%;
+    }
+  }
+
 body {
     text-align: center;
     background-color: lightgray;
